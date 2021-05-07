@@ -30,6 +30,8 @@ sudo apt-get install jq
 sudo chmod 777 run_program.sh
 ```
 
+OR
+
 ```sh
 cd src/
 make clean && make
