@@ -26,7 +26,9 @@ sudo apt-get install curl
 sudo apt-get install jq
 ```
 
-```sh sudo chmod 777 run_program.sh```
+```sh 
+sudo chmod 777 run_program.sh
+```
 
 ```sh
 cd src/
